@@ -6,7 +6,8 @@ First of all, you should generate the channels by executing the file "generate_c
 
 After generating the channels, execute the files: "execute_WMMSE_plot_conv.m", "execute_WMMSE_plot_RvsNU.m", and "execute_WMMSE_plot_RvsPm.m" in order to generate the convergence plot, the sum-rate VS NU/NC plot, and the sum-rate VS P(max) plot, respectively. Each of these three files execute the "execute_WMMSE.m" file, which in turn executes the WMMSE algorithm and saves the data to be used later inside the folders "WMMSE_for_conv", "WMMSE_for_NU", and "WMMSE_for_powers", respectively.
 
-To not consume time, you can download all the pre-saved data described above from the following link: (the data are being uploded, please wait).
+To not consume time, you can download all the pre-saved data described above from the following link:
+https://bit.ly/3BgvXeL
 
 
 
